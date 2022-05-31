@@ -13,7 +13,7 @@ A sequential trading model of Glosten Milgrom
 ## Results and analysis
 <img src="https://imgur.com/JWxP50c.png" width="700" height="500">
 
-Figure 1: The bid and ask proce at each trade
+Figure 1: The bid and ask price at each trade
 
 Figure 2: The transaction price at each trade
 
