@@ -1,7 +1,7 @@
 # Glosten-Milgrom
 A sequential trading model of Glosten Milgrom
 
-## Parameter setting
+## Parameter settings
 - Asset value $V$ can be low ($V_L$) or high ($V_H$)
 - $\delta$: The probability of bad news about $V$
 - $\mu$: The fraction of insiders in the market
@@ -10,7 +10,7 @@ A sequential trading model of Glosten Milgrom
 
 <img src="https://imgur.com/AaLAgKg.png" width="700" height="500">
 
-## Results and analysis
+## Results of simulation
 <img src="https://imgur.com/JWxP50c.png" width="700" height="500">
 
 Figure 1: The bid and ask price at each trade
